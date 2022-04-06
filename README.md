@@ -1,5 +1,12 @@
 # glimit
+
 限制 go 协程并发数
+
+# 安装
+
+```
+go get github.com/git-zjx/glimit
+```
 
 # 示例
 
